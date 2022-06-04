@@ -12,7 +12,9 @@
  Mysql - 8.0.29 <br>
  composer - 2.3.6 <br>
  
- criar banco de dados e setar no .env
+ email para fazer login: admin@admin.com.<br>
+ senha de admin: admin.<br>
+ criar banco de dados e setar no .env.
 
 ## Como rodar a api
  Clonar o projeto 
